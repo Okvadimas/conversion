@@ -54,7 +54,7 @@ Temperature in Fahrenheit  = {kelvin_fahrenheit}
                     """)
             elif pilih == "help":
                 print("""
-            To Start Converstion Choose One and type on the List !
+            To Start Conversion Choose One and type on the List !
             To Quit type exit !
                     """)
             elif pilih == "exit":
